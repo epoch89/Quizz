@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+#quiz-container, #mode-selection {
+    width: 60%;
+    margin: auto;
+    text-align: left;
+}
+
+#options li label {
+    display: block;
+    text-align: left;
+    padding: 5px;
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+#options li input[type="radio"] {
+    margin-right: 10px;
+}
+
+
+button {
+    margin: 10px;
+    padding: 5px 20px;
+}
+
+#explanation {
+    margin-top: 20px;
+    font-style: italic;
+}
+
+.disabled-radio-button {
+    /* Propriedades CSS para indicar visualmente que o botão está desativado */
+    opacity: 0.6; /* exemplo para torná-los mais opacos */
+    cursor: not-allowed; /* exemplo para mudar o cursor */
+}
+
+
+
+#mode-selection,
+#quiz-container {
+    margin-bottom: 20px;
+}
+
+#timer {
+    font-weight: bold;
+}

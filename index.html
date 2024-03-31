@@ -1,0 +1,56 @@
+User
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Interativo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Seção de Seleção do Quiz -->
+    <div id="quiz-selection">
+        <label for="quiz-selector">Escolha o Quiz:</label>
+        <select id="quiz-selector">
+            <!-- As opções abaixo devem corresponder aos nomes dos arquivos XML -->
+            <option value="quiz-economia01-2022.xml">quiz-economia01-2022.xml</option>
+            <option value="quiz.xml">Economia02</option>
+            <option value="quiz-economia03-2022.xml">Economia03</option>
+            <!-- Adicione mais opções de quiz con0forme necessário -->
+        </select>
+    </div>
+        <!-- Timer para o Modo Simulado -->
+    <div id="timer" style="display:none;">Tempo: 00:00</div>
+
+    <!-- Seção de Seleção de Modo -->
+    <div id="mode-selection">
+        <!-- Agrupamento dos radio buttons para uma melhor semântica -->
+        <fieldset>
+            <legend>Selecione o modo de quiz:</legend>
+            <label><input type="radio" name="mode" value="study">Modo Estudo</label>
+            <label><input type="radio" name="mode" value="simulated">Modo Simulado</label>
+            <label><input type="radio" name="mode" value="reading">Modo Leitura</label>
+        </fieldset>
+        <button id="start-quiz">Iniciar Quiz</button>
+    </div>
+
+
+<!-- Container do Quiz -->
+<div id="quiz-container" style="display: none;">
+    <div id="question"></div>
+    <ul id="options"></ul>
+    <div id="navigation-buttons">
+        <button id="prev" style="display:none;">Anterior</button> <!-- Botão de 'Anterior' adicionado -->
+        <button id="next" style="display:none;">Próxima</button>
+    </div>
+    <div id="explanation" style="display:none;"></div>
+</div>
+
+
+    <!-- Container para dados adicionais, como imagens -->
+    <div id="data-container" style="display: flex; justify-content: center; margin-top: 20px;"></div>
+
+    <!-- Script do Quiz -->
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <question text="212121ASAS. Seja X uma variável aleatória absolutamente contínua 
+com função de distribuição acumulada dada por: (imagem) Qual o valor do desvio padrão da variável aleatória X?"
+        explanation="222222">
+    <data>
+        <image src="img/image46.jpg" alt="Sem descrição"/>
+    </data>
+    <answer correct="false">1/3</answer>
+    <answer correct="false">2/5</answer>
+    <answer correct="true">stqr(5)/5</answer>
+    <answer correct="false">stqr(15)/4</answer>
+    <answer correct="false">stqr(39)/15.</answer>
+</question>
+
+    <question text="26. O conceito de transição energética atual está relacionado a grandes mudanças na matriz energética no mundo. Essa transformação ocorre na direção de uma economia de:" 
+        explanation="A transição energética atual busca uma economia de baixo carbono e menor pegada ambiental, priorizando fontes de energia renovável e sustentável.">
+        <answer correct="true"> baixo carbono e menor pegada ambiental</answer>
+        <answer correct="false">baixo carbono e maior pegada ambiental</answer>
+        <answer correct="false">alto carbono e menor pegada ambienta</answer>
+        <answer correct="false">alto carbono e menor pegada hídrica</answer>
+        <answer correct="false"> alto metano e menor pegada hídrica</answer>
+    </question>
+
+    <question text="27. Nas últimas décadas, observou-se enorme transferência de fábricas operadas por filiais de empresas multinacionais para os países em desenvolvimento da Ásia. A tendência de fragmentação da produção de bens e serviços em afiliadas localizadas em diferentes países refletiu a opção estratégica das empresas multinacionais por especialização em produtos finais, partes, peças e componentes, levando à disseminação do que se convencionou denominar cadeias globais de valor. De acordo com a nova teoria do comércio internacional, os principais fatores que explicam a disseminação das cadeias globais de valor são:" 
+        explanation="Globalização impulsiona cadeias globais de valor com foco em diferenciais de custos e economias de escala, moldando o comércio e a economia global.">
+        <answer correct="false">o esgotamento das oportunidades de lucro nos países de origem das empresas multinacionais e os elevados salários nos países hospedeiros.</answer>
+        <answer correct="false">a escassez de mão de obra nos países de origem das empresas multinacionais e a abundância de matérias-primas nos países hospedeiros.</answer>
+        <answer correct="false">a abundância de capital e os baixos salários nos países hospedeiros.</answer>
+        <answer correct="false">os diferenciais de preços de matérias-primas e a falta de concorrência nos países de origem das empresas multinacionais.</answer>
+        <answer correct="true">os diferenciais de custos de produção entre países e as enormes economias de escala requeridas no processo de fabricação.</answer>
+    </question>
+
+    <question text="28. O período 1967-1973 marcou uma das fases mais dinâmicas da economia brasileira quando a taxa média de crescimento do Produto Interno Bruto (PIB) anual foi de 10,2%, alcançando um pico de 14% em 1973. A despeito do inquestionável dinamismo da economia, o período é também conhecido como “milagre” brasileiro. Uma das distorções flagrantes do “milagre” foi o(a):" 
+        explanation="Durante o &quot;milagre&quot; econômico brasileiro, o aumento da renda nacional favoreceu os mais ricos, resultando em desigualdades sociais, devido à falta de políticas redistributivas eficazes.">
+        <answer correct="false">reduzido grau de intervenção do Estado na economia brasileira.</answer>
+        <answer correct="false">fraco dinamismo da demanda interna.</answer>
+        <answer correct="true"> aumento da concentração da renda nacional em favor dos estratos mais ricos da população.</answer>
+        <answer correct="false">baixa taxa de crescimento do investimento bruto.</answer>
+        <answer correct="false">enorme capacidade ociosa observada no subperíodo 1970-1973.</answer>
+    </question>
+
+   <question text="29. De acordo com os dados do IBGE, o Brasil apresentou os seguintes valores acumulados em R$ milhões, valores aproximados, concernentes à oferta e à demanda agregadas em 2020:" 
+    explanation="Pode-se calcular pela Despesa/Renda/Produto Agredadow. Não há dados das rendas (aluguéis,juros,etc.).Pelo método do produto é os Valores Agregados Somados + Impostos Líquidos; Pela Despesa C + G + FBCF + E + Ex - I">
+    <answer correct="false">5.434.948</answer>
+    <answer correct="false">6.451.282</answer>
+    <answer correct="false">7.465.896</answer>
+    <answer correct="true">7.467.616</answer>
+    <answer correct="false">9.871.500</answer>
+    <data>
+        <item name="Valor Adicionado da Agropecuária" value="440.085" />
+        <item name="Valor Adicionado da Indústria" value="1.321.892" />
+        <item name="Valor Adicionado do Setor de Serviços" value="4.689.305" />
+        <item name="Impostos Líquidos" value="1.016.334" />
+        <item name="Consumo das Famílias" value="4.696.416" />
+        <item name="Consumo do Governo" value="1.529.313" />
+        <item name="Formação Bruta de Capital Fixo" value="1.240.167" />
+        <item name="Variação de Estoques" value="-50.530" />
+        <item name="Exportações" value="1.254.192" />
+        <item name="Importações" value="1.201.942" />
+    </data>
+</question>
+
+<question text="30. Segundo o IBGE, o Brasil teve uma contração de 4,1% no PIB real em 2020, a maior queda desde 1996. O indicador que confirma a recessão econômica é o(a):"    
+    explanation="O hiato do produto negativo indica que a economia está abaixo de seu potencial máximo. Com a queda do PIB real em 2020, confirma-se a recessão econômica.">
+    <answer correct="true">hiato do produto negativo</answer>
+    <answer correct="false">pleno-emprego</answer>
+    <answer correct="false">déficit em conta-corrente</answer>
+    <answer correct="false">PIB potencial elevado</answer>
+    <answer correct="false">inflação acelerada</answer>
+</question>
+
+<question text="31. Haverá aumento dos meios de pagamento na economia se:"    
+    explanation="">
+    <answer correct="false">o Banco Central vender reservas internacionais no mercado de câmbio.</answer>
+    <answer correct="true">os bancos comerciais comprarem títulos da dívida pública, disponíveis em carteira das empresas.</answer>
+    <answer correct="false">um banco comercial vender ações ao público, por meio da bolsa de valores.</answer>
+    <answer correct="false">um importador comprar moeda estrangeira de um banco comercial.</answer>
+    <answer correct="false">uma empresa fizer um depósito à vista, num banco comercial, no valor de R$50.000,00.</answer>
+</question>
+
+<question text="32 Admita que sejam válidas todas as premissas subjacentes à Teoria Quantitativa da Moeda (TQM), em sua versão clássica. De acordo com a TQM, se o Banco Central aumentar a
+oferta de moeda da economia, ele provocará:"    
+    explanation="Aumento na oferta de moeda → Aumento da inflação, PIB real permanece constante se a velocidade de circulação do dinheiro não aumentar.">
+    <answer correct="false">Redução da inflação.</answer>
+    <answer correct="false">Aumento dos salários nominais.</answer>
+    <answer correct="false">Aumento do nível de emprego.</answer>
+    <answer correct="false">Aumento da inflação, mantendo inalterado o PIB nominal.</answer>
+    <answer correct="true">Aumento da inflação, mantendo inalterado o PIB real.</answer>
+</question>
+
+<question text="33. Segundo a macroeconomia clássica, a taxa real de juros resulta do(a):"    
+    explanation="Na macroeconomia clássica, a taxa real de juros é definida pelo equilíbrio entre a oferta de poupança e a demanda por investimento, permitindo a alocação eficiente de recursos.">
+    <answer correct="true">equilíbrio entre a oferta de poupança e a demanda de investimento</answer>
+    <answer correct="false">equilíbrio entre a oferta e a demanda de moeda</answer>
+    <answer correct="false">preferência do público por liquidez</answer>
+    <answer correct="false">política monetária do Banco Central</answer>
+    <answer correct="false">responsabilidade do governo na gestão da política tributária</answer>
+</question>
+
+<question text="34 Em célebre trecho de sua Teoria Geral do Emprego, do 
+Juro e da Moeda, Keynes mostra as razões por que o investimento, uma das variáveis mais importantes para sustentar o crescimento econômico no longo prazo, sofre flutuações expressivas ao longo dos ciclos econômicos. (texto). De acordo com Keynes, as decisões de investimento nas economias capitalistas são efetivadas sob incerteza e com base em expectativas" 
+    explanation="Keynes descreveu decisões de investimento como influenciadas por &quot;espíritos animais&quot; - impulsos intuitivos ou confiança, além de cálculos racionais, devido à incerteza futura. Ele enfatizava que a confiança e as expectativas gerais do mercado influenciam mais essas decisões do que análises estatísticas detalhadas.">
+    <answer correct="false">adaptativas</answer>
+    <answer correct="false">racionais</answer>
+    <answer correct="false">confiáveis</answer>
+    <answer correct="false">probabilísticas</answer>
+    <answer correct="true">não probabilísticas</answer>
+    <data>
+        <item name="O fato de maior importância é a extrema precariedade da base do conhecimento sobre a qual temos que fazer os nossos cálculos das rendas esperadas. O nosso conhecimento dos fatores que regularão a renda de um investimento alguns anos mais tarde é, em geral, muito limitado e, com frequência, desprezível. Se falarmos com franqueza, temos de admitir que as bases do nosso conhecimento para calcular a renda provável dentro de dez anos de uma estrada de ferro, uma mina de cobre, uma fábrica de tecidos, a aceitação de um produto farmacêutico, um navio transatlântico ou um imóvel no centro comercial de Londres pouco significam e, às vezes, a nada levam. De fato, aqueles que tentam, com seriedade, fazer um cálculo desta natureza constituem uma pequena minoria, cuja conduta não chega a influenciar o mercado. (ES, J.M. A Teoria Geral do Emprego, do Juro e da Moeda. São Paulo: Editora Nova Cultural, 1996, p.161.)" value=""/>
+    </data>
+</question>
+
+<question text="35. Nos países que adotam o regime de metas de inflação, como o Brasil, o principal instrumento utilizado pelos Bancos Centrais para manter baixas e estáveis as taxas observadas e esperadas de inflação é o(a):" 
+        explanation="A taxa básica de juros, manipulada pelo Banco Central, é o principal instrumento de política monetária utilizado nos regimes de metas de inflação para influenciar as taxas de inflação observadas e esperadas, buscando garantir a estabilidade de preços.">
+        <answer correct="false">controle da oferta monetária</answer>
+        <answer correct="false">controle de preços dos bens e serviços em geral</answer>
+        <answer correct="false">controle de preços dos bens e serviços administrados</answer>
+        <answer correct="true">manejo da taxa básica de juros de curto prazo</answer>
+        <answer correct="false">controle dos salários nominais</answer>
+    </question>
+
+    <question text="36. A regra de Taylor é uma das ferramentas mais utilizadas pela maioria dos Bancos Centrais no manejo da política monetária. Admita que uma determinada economia apresente taxas de inflação observadas superiores à meta de inflação e hiatos do produto positivos ao longo de determinado período. Tendo em vista exclusivamente os preceitos da regra de Taylor, o Banco Central desse país deverá:" 
+        explanation="De acordo com a regra de Taylor, se a inflação está acima da meta e o hiato do produto é positivo, o Banco Central deve aumentar a taxa básica de juros de curto prazo para combater a inflação e arrefecer a demanda agregada, alinhando a economia à sua capacidade produtiva.">
+        <answer correct="false">reduzir a taxa básica de juros de curto prazo.</answer>
+        <answer correct="false">reduzir a taxa de juros real neutra.</answer>
+        <answer correct="false">aumentar a taxa de juros real neutra.</answer>
+        <answer correct="false">aumentar a oferta monetária.</answer>
+        <answer correct="true"> aumentar a taxa básica de juros de curto prazo.</answer>
+        <data>
+            <item name=" i(t) = r* + π(t) + α[π(t) - π*] + β[(Y(t) - Y(t)*) / Y(t)* × 100]" value=""/>
+            <item name="i(t) é a taxa de juros nominal definida pelo banco central no tempo t." value="" />
+            <item name="r* é a taxa de juros real neutra de longo prazo." value=""/>
+            <item name="π(t) é a taxa de inflação no tempo t." value=""/>
+            <item name="π* é a meta de inflação." value=""/>
+            <item name="α e β são coeficientes que medem a resposta da política monetária à inflação acima da meta e ao hiato do produto, respectivamente." value=""/>
+            <item name="Y(t) é o PIB real observado no tempo t." value=""/>
+            <item name="Y(t)* é o PIB potencial no tempo t." value=""/>
+            <item name="A fórmula ajusta a taxa de juros nominal com base na diferença entre a inflação observada (π(t)) e a meta de inflação (π*), assim como na diferença entre o PIB real observado (Y(t)) e o PIB potencial (Y(t)*), multiplicado por 100 para converter em porcentagem." value=""/>
+         </data>
+    </question>
+
+    <question text="37. Definindo-se as receitas líquidas de impostos como a diferença entre o total de impostos arrecadados pelo governo e as transferências governamentais realizadas em determinado período, entende-se por saldo fiscal nominal nesse mesmo período o(a):" 
+        explanation="O saldo fiscal nominal é a diferença entre as receitas líquidas de impostos e os gastos totais do governo, incluindo os gastos primários e as despesas com juros da dívida pública.">
+        <answer correct="true">diferença entre as receitas líquidas de impostos e os gastos primários do governo acrescida das despesas de juros incidentes sobre a dívida pública</answer>
+        <answer correct="false">diferença entre as receitas líquidas de impostos e os gastos primários do governo</answer>
+        <answer correct="false">diferença entre as receitas de impostos e as transferências realizadas</answer>
+        <answer correct="false">diferença entre as receitas líquidas de impostos e as despesas anuais de juros incidentes sobre a dívida pública</answer>
+        <answer correct="false">soma dos gastos primários do governo e das despesas anuais de juros incidentes sobre a dívida pública</answer>
+    </question>
+
+
+<question text="38. O modelo de crescimento econômico de Solow baseia-se numa função agregada de produção. Com base nas hipóteses do modelo de Solow, um dos mais influentes na teoria neoclássica de crescimento econômico, verifica-se que" 
+    explanation="O modelo de Solow é fundamental para a teoria neoclássica de crescimento econômico e assume que o progresso técnico atua como uma variável exógena, essencialmente não explicada dentro do modelo, mas que impulsiona o crescimento a longo prazo. Este progresso técnico é considerado um resíduo, o que significa que ele é o fator de crescimento que não é explicado pelo acúmulo de capital ou aumento da força de trabalho. Assim, enquanto o capital e o trabalho são importantes para o crescimento econômico, o modelo de Solow destaca a importância crítica do progresso técnico como motor do crescimento sustentável a longo prazo.">
+    <answer correct="false"> a função agregada de produção está sujeita a retornos crescentes de escala.</answer>
+    <answer correct="true"> o progresso técnico é a variável exógena e é estimado como resíduo no modelo.</answer>
+    <answer correct="false"> o progresso técnico, sendo a variável endógena do modelo, é o principal fator explicativo do crescimento econômico no longo prazo.</answer>
+    <answer correct="false"> o fator capital é o fator variável do modelo e está sujeito a rendimentos crescentes.</answer>
+    <answer correct="false"> os fatores capital e trabalho estão sujeitos à mesma taxa de variação ao longo do tempo.</answer>
+    <data>
+        <item name="Q = K^(1-α) * (AL)^α" value=""/>
+        <item name="Q é o nível do produto;" value=""/>
+        <item name="K é o estoque de capital da economia;" value=""/>
+        <item name="L é a força de trabalho;" value=""/>
+        <item name="A(t) representa o estado da tecnologia no tempo t;" value=""/>
+        <item name="α é o coeficiente técnico que representa os retornos do fator capital." value=""/>
+    </data>
+</question>
+
+
+<question text="39. O texto seguinte alude às mudanças ocorridas na economia brasileira, a partir da primeira metade da década de 1930. Os eventos descritos no texto fazem menção à análise de Celso Furtado a respeito das mudanças ocorridas na economia brasileira, após a crise de 1929. A principal mudança a que se refere o texto é o(a)" 
+        explanation="A análise de Celso Furtado enfoca a mudança paradigmática na economia brasileira após a crise de 1929, destacando a transição para um modelo de crescimento impulsionado pelo mercado interno. Este movimento foi crucial na reorientação econômica do Brasil, marcando um afastamento das estratégias de crescimento centradas exclusivamente no setor externo. A queima dos estoques de café e a subsequente política econômica do Governo Provisório, que adotou medidas pré-keynesianas de estímulo fiscal, são vistas como momentos decisivos nessa transição, refletindo um esforço para absorver o choque fiscal e promover o crescimento por meio do estímulo ao mercado interno.">
+    <answer correct="false"> setor externo como motor de crescimento da economia brasileira</answer>
+    <answer correct="false"> ajuste fiscal ocorrido na primeira metade da década de 1930.</answer>
+    <answer correct="true"> mercado interno como fonte dinâmica de crescimento da economia brasileira.</answer>
+    <answer correct="false"> liberalização do comércio exterior ocorrida na primeira metade da década de 1930.</answer>
+    <answer correct="false"> política econômica de cunho liberal que se seguiu à crise de 1929.</answer>
+    <data>
+        <item name="O que parece ter sido decisivo para que Furtado identificasse o pré-keynesianismo em Vargas, e não, por exemplo, em Epitácio Pessoa, é a imagem impressionante da queima dos estoques de café, tão aparentada à construção de pirâmides ou ao cavar buracos mencionados por Keynes. Entretanto, é a disposição de acomodar o choque fiscal, através do aumento do déficit público, o elemento que permite, com adequação, afirmar que a política econômica do Governo Provisório tenha sido pré-keynesiana (ABREU, M. P. Crise, crescimento e modernização autoritária: 1930-1945. In M. P. Abreu (org.). A Ordem do Progresso: Cem Anos de Política Econômica Republicana – 1889-1989. Rio de Janeiro: Editora Campus, p. 81. Adaptado.)" value=""/>
+    </data>
+</question>
+
+
+      <question text="40. O trecho seguinte alude aos limites de uma estratégia de crescimento financiada por poupança externa. De acordo com o autor, um país que se guia por uma estratégia de &quot;crescimento com poupança externa&quot; " 
+        explanation="A estratégia de &quot;crescimento com poupança externa&quot; implica na utilização de recursos financeiros externos para alavancar o desenvolvimento econômico. Embora possa inicialmente estimular a atividade econômica, essa abordagem carrega limitações significativas, como a susceptibilidade a crises de balanço de pagamentos, o aumento da dívida externa e a dependência de condições econômicas externas. O trecho destaca as consequências de tal estratégia, incluindo a apreciação da taxa de câmbio e seus impactos sobre a poupança interna e a competitividade das exportações.">
+        <answer correct="false">provoca a apreciação da taxa de câmbio e, consequentemente, a redução do consumo das famílias</answer>
+        <answer correct="false">acelera sua taxa de investimento, como proporção no PIB.</answer>
+        <answer correct="false">aumenta sua taxa de poupança interna, como proporção do PIB</answer>
+        <answer correct="true">aumenta sua dependência de capitais estrangeiros.</answer>
+        <answer correct="false">aumenta a competitividade de suas exportações.</answer>
+        <data>
+            <item name="Quando um país decide aceitar essa proposta de &quot;crescimento com poupança externa&quot;, a primeira consequência é a apreciação da taxa de câmbio. Em seguida, do lado da oferta, ocorre o aumento artificial dos salários, e, em consequência, o aumento do consumo interno [...]. Do lado da demanda, o resultado é o mesmo: a apreciação da moeda provoca a diminuição das oportunidades de investimento lucrativo voltadas para a exportação; caem os investimentos e, em termos keynesianos, cai a poupança interna. Mais amplamente, o endividamento externo provoca uma sucessão de três males: primeiro, temos uma elevada taxa de substituição da poupança interna pela externa, grande parte das entradas de capitais financiando o consumo ao invés do investimento; segundo, temos o aumento do endividamento externo que leva o país a uma condição de fragilidade externa e à política desastrosa do confidence building, a aceitar sem crítica as recomendações de nossos credores e concorrentes; e, terceiro, temos a crise de balanço de pagamentos.(BRESSER-PEREIRA, L.C. Déficits, câmbio e crescimento. O Estado de São Paulo, São Paulo, mar.2010. Adaptado.)" value=""/>
+        </data>
+    </question>
+
+
+     <question text="41. De acordo com a teoria das vantagens comparativas, nas versões de Heckscher-Ohlin e Samuelson, quando um país em desenvolvimento adota um programa radical de liberalização comercial, caracterizado pela redução linear de todas as tarifas de importação de mercadorias, o efeito será o aumento das(os)" 
+        explanation="A teoria das vantagens comparativas, particularmente nas versões de Heckscher-Ohlin e Samuelson, sugere que países se especializam na produção e exportação de bens que utilizam de forma intensiva seus fatores de produção mais abundantes. Assim, quando um país em desenvolvimento, tipicamente abundante em mão de obra, reduz tarifas de importação, espera-se um aumento nas importações de bens que utilizam intensivamente o fator de produção abundante, refletindo a realocação de recursos econômicos conforme as vantagens comparativas do país.">
+        <answer correct="false">importações dos bens, cuja produção utiliza intensivamente o fator de produção abundante do país</answer>
+        <answer correct="true">importações dos bens, cuja produção utiliza intensivamente o fator de produção escasso do país </answer>
+        <answer correct="false">exportações dos bens, cuja produção utiliza intensivamente o fator de produção escasso do país.</answer>
+        <answer correct="false">salários relativos nos setores produtores dos bens, que utilizam intensivamente o fator de produção escasso do país</answer>
+        <answer correct="false">lucros nos setores produtores dos bens, que utilizam intensivamente o fator de produção escasso do país.</answer>
+    </question>
+
+
+   <question text="42. Considere um setor que produza um bem, sob condições de monopólio, no Brasil. Se o governo anunciar um aumento da tarifa aduaneira ad valorem de importação desse produto, comparativamente à situação vigente antes da mudança da tarifa, os efeitos serão"
+         explanation="Quando o governo anuncia um aumento da tarifa aduaneira de importação de um produto monopolizado, isso geralmente resulta em um aumento do preço desse produto no mercado interno. Como o monopólio tem controle sobre a produção desse bem, o aumento do preço leva a um incentivo para aumentar a produção local, uma vez que agora é mais lucrativo. No entanto, o aumento do preço também tende a reduzir a demanda por esse produto, resultando em uma redução das importações. Portanto, os efeitos desse aumento tarifário incluem um aumento do preço e da produção local, juntamente com uma redução das importações.">
+        <answer correct="true">aumento do preço e da produção locais e redução das importações.</answer>
+        <answer correct="false">aumento do preço e da produção locais e aumento das importações.</answer>
+        <answer correct="false">aumento do preço local, redução da produção local e aumento das importações.</answer>
+        <answer correct="false">aumento do preço local, manutenção da produção local e redução das importações.</answer>
+        <answer correct="false">manutenção do preço e da produção locais e redução das importações</answer>
+    </question>
+
+<question text="43. O Plano Real, implementado a partir de 1994, é avaliado como um dos mais importantes e bem-sucedidos programas de estabilização inflacionária no Brasil. Um dos fatores que contribuíram para o sucesso do Plano Real foi a(o)" explanation="O uso da âncora cambial durante o Plano Real ajudou a estabilizar a economia brasileira, controlando a inflação. Ao adotar um sistema de câmbio semifixo em bandas cambiais, o governo brasileiro conseguiu manter uma taxa de câmbio estável e previsível. Isso não só fortaleceu a confiança na nova moeda, o Real, mas também incentivou o investimento estrangeiro direto, contribuindo para uma redução significativa nas taxas de inflação e estabilizando a economia.">
+    <answer correct="false">redução dos influxos de capital estrangeiro, ocorrida ao longo do plano de estabilização.</answer>
+    <answer correct="false">postergação do programa de liberalização comercial, em curso desde 1990, e que deveria ser finalizado em 1994.</answer>
+    <answer correct="false">estratégia bem-sucedida de congelamento de preços e salários ao longo do processo de estabilização.</answer>
+    <answer correct="false">forte recessão econômica que se seguiu imediatamente após o plano de estabilização.</answer>
+    <answer correct="true">uso da chamada âncora cambial, que, por meio de um sistema de câmbio semifixo em bandas cambiais, levou à sobrevalorização da moeda nacional recém-introduzida (o Real)</answer>
+</question>
+
+<question text="44. No período 1950-1980, o processo de desenvolvimento econômico brasileiro norteou-se pela adoção de diversos Planos Nacionais de Desenvolvimento, visando a acelerar a industrialização e melhorar as condições sociais. Um desses Planos, implementado no período 1956-1960, por ter mobilizado incentivos direcionados a diversos setores da economia brasileira, como infraestrutura, indústrias de bens de capital e bens de consumo duráveis, entre outros, é avaliado como um dos mais sólidos programas em prol da industrialização no Brasil. O programa mencionado, efetivado no período 1956-1960, é o"
+    explanation="O Plano de Metas, implementado durante o governo de Juscelino Kubitschek de 1956 a 1961, foi um dos mais importantes programas de desenvolvimento econômico no Brasil. Focado na aceleração da industrialização, o Plano de Metas mobilizou recursos para infraestrutura, indústrias de bens de capital, bens de consumo duráveis, entre outros, contribuindo significativamente para o desenvolvimento econômico brasileiro.">
+    <answer correct="false">I Plano Nacional de Desenvolvimento (I PND)</answer>
+    <answer correct="false">II Plano Nacional de Desenvolvimento (II PND)</answer>
+    <answer correct="true">Plano de Metas</answer>
+    <answer correct="false">Plano Trienal</answer>
+    <answer correct="false">Plano Brasil Maio</answer>
+</question>
+
+<question text="45. Nas últimas décadas, houve significativa diminuição da importância relativa do setor manufatureiro na economia brasileira. Segundo dados do IBGE, a participação do valor adicionado da indústria de transformação no PIB brasileiro já havia declinado, em termos reais, de 15,7% para 11,9%, entre 2000 e 2020, após ter alcançado um pico de 21,4%, em 1976. Os indicadores estão associados ao fenômeno conhecido como"
+    explanation="Este fenômeno, conhecido como desindustrialização, reflete uma redução relativa da indústria de transformação na composição do Produto Interno Bruto (PIB) de um país. É frequentemente associado a uma transição econômica para serviços e, em alguns casos, pode indicar a migração de atividades industriais para regiões com menor custo de produção">
+    <answer correct="false">financeirização</answer>
+    <answer correct="false">hiperinflação</answer>
+    <answer correct="true">desindustrialização</answer>
+    <answer correct="false">reprimarização</answer>
+    <answer correct="false">depressão</answer>
+</question>
+
+<question text="46. Seja X uma variável aleatória absolutamente contínua 
+com função de distribuição acumulada dada por: (imagem) Qual o valor do desvio padrão da variável aleatória X?"
+        explanation="">
+    <data>
+        <image src="img/image46.jpg" alt="Sem descrição"/>
+    </data>
+    <answer correct="false">1/3</answer>
+    <answer correct="false">2/5</answer>
+    <answer correct="true">stqr(5)/5</answer>
+    <answer correct="false">stqr(15)/4</answer>
+    <answer correct="false">stqr(39)/15.</answer>
+</question>
+
+
+<question text="47. Uma variável econômica de interesse, U, é modelada como U = XY, com X e Y variáveis aleatórias, tais que X tem distribuição normal com média 8 e variância 20, e Y condicionada a X = x tem distribuição normal com média x e variância 10. Qual o valor da esperança matemática de U?"
+    explanation="!!! ATENÇÂO !!!! Nesta questão, precisamos calcular a esperança matemática da variável U, que é o produto de duas variáveis aleatórias X e Y. Dado que X tem média 8 e Y, condicionada a X, tem média x, a esperança de U é o produto das médias de X e Y, ou seja, E[U] = E[X] × E[Y|X]. Substituindo os valores conhecidos, encontramos que a esperança de U é 8 × 8 = 64.!!!! no gabarito oficial é letra A !!!revisar questão" >
+    <answer correct="true">84</answer>
+    <answer correct="false">64</answer>
+    <answer correct="false">170</answer>
+    <answer correct="false">160</answer>
+    <answer correct="false">80</answer>
+</question>
+
+<question text="48. Para cada usuário que ingressa em um determinado aplicativo, um número PIN de quatro dígitos diferentes é gerado aleatoriamente pelo sistema. Tomados dois números PIN criados independentemente e de forma aleatória, qual a probabilidade de que eles tenham exatamente dois dígitos em comum?"
+    explanation="!!! ATENÇÂO !!!! Tem q revisar essa Questão 9 / 500">
+    <answer correct="false">1/2</answer>
+    <answer correct="true">3/7</answer>
+    <answer correct="false">1/168</answer>
+    <answer correct="false">9/400</answer>
+    <answer correct="false">27/200</answer>
+</question>
+
+<question text="49. O salário líquido (S), em reais, de um determinado profissional é o salário bruto menos os descontos. O salário bruto é a soma de uma parcela fixa, igual a R$5.000,00, com uma parcela variável (a comissão) que é sempre igual a 5% do valor total de suas vendas (v), em reais. Ele desconta um total de 10% para previdência, sobre o 
+valor total do salário bruto e paga (desconta) 20% de Imposto de Renda sobre a diferença entre o salário bruto e a previdência. Ele ainda desconta R$ 2.000,00 de plano de saúde.O salário líquido S, em função do valor total vendido v, em 
+reais, pode ser, algebricamente, expresso por:"
+    explanation=" calculamos o salário líquido (S) em função do valor total vendido (v). Primeiro, determinamos o salário bruto somando uma parcela fixa com 5% do valor total das vendas. Em seguida, subtraímos os descontos para previdência, imposto de renda e plano de saúde. Após simplificar a expressão, encontramos que o salário líquido é dado por S = 0,036v + 1600.">
+    <answer correct="false"> S = 0,72v + 3600</answer>
+    <answer correct="false"> S = 0,36v + 4500</answer>
+    <answer correct="false">S = 0,36v + 1600</answer>
+    <answer correct="true">S = 0,036v + 1600</answer>
+    <answer correct="false">S = 0,072v + 3600</answer>
+</question>
+
+<question text="50. O preço unitário p de um determinado equipamento varia segundo a equação de demanda p = sqrt(800 - x), em que x é o número de equipamentos produzidos. O número de equipamentos que devem ser produzidos e vendidos para maximizar a receita R = p.x é de aproximadamente:"
+    explanation="Para maximizar a receita, derivamos a função R = p * x em relação a x e igualamos a zero. Após manipulações, encontramos x ≈ 1600/3, o que resulta em aproximadamente x ≈ 533,33 equipamentos..">
+    <data>
+        <image src="img/image50.jpg" alt="OPs."/>
+    </data>
+    <answer correct="false"> 400</answer>
+    <answer correct="false"> 466</answer>
+    <answer correct="true"> 533</answer>
+    <answer correct="false"> 586</answer>
+    <answer correct="false"> 600</answer>
+</question>
+
+<question text="51. Na teoria contábil dominante, é convergente o entendimento técnico-conceitual de que os fatos administrativos ou fatos contábeis, praticados pelas empresas, são registrados pelo método das partidas dobradas, mediante lançamento.
+
+Em termos técnicos, lançamento é a forma de a contabilidade registrar os fatos contábeis (administrativos), de acordo com as normas contábeis vigentes (CFC-ITG 2000 e alterações).
+
+Nesse enfoque do lançamento, analise o seguinte fato praticado pela comercial HL:
+
+Pagamento de uma obrigação, após o vencimento, acrescida de juros de mora, por débito em conta-corrente bancária.
+
+Desconsiderando-se os elementos do lançamento: data, histórico e valor, o registro contábil desse fato praticado pelo comercial HL é feito por lançamento de"
+    explanation="">
+    <answer correct="false">Primeira fórmula</answer>
+    <answer correct="false">Segunda fórmula</answer>
+    <answer correct="true">Terceira fórmula</answer>
+    <answer correct="false">Quarta fórmula</answer>
+    <answer correct="false">Quinta fórmula</answer>
+</question>
+
+<question text="52. Para cada usuário que ingressa em um determinado aplicativo, um número PIN de quatro dígitos diferentes é gerado aleatoriamente pelo sistema. Tomados dois números PIN criados independentemente e de forma aleatória, qual a probabilidade de que eles tenham exatamente dois dígitos em comum?"
+    explanation="A probabilidade é calculada considerando o espaço amostral total de PINs possíveis e o número de combinações que satisfazem a condição de ter exatamente dois dígitos em comum.">
+    <answer correct="false">(A) 1/2</answer>
+    <answer correct="false">(B) 3/7</answer>
+    <answer correct="true">(C) 1/168</answer>
+    <answer correct="false">(D) 9/400</answer>
+    <answer correct="false">(E) 27/200</answer>
+</question>
+
+
+<question text="53. O salário líquido (S), em reais, de um determinado profissional é o salário bruto menos os descontos. O salário bruto é a soma de uma parcela fixa, igual a R$5.000,00, com uma parcela variável (a comissão) que é sempre igual a 5% do valor total de suas vendas (v), em reais. Ele desconta um total de 10% para previdência sobre o valor total do salário bruto e paga (desconta) 20% de Imposto de Renda sobre a diferença entre o salário bruto e a previdência. Ele ainda desconta R$ 2.000,00 de plano de saúde. O salário líquido S, em função do valor total vendido v, em reais, pode ser algebricamente expresso por:"
+    explanation="A expressão correta leva em conta a composição do salário bruto, descontos para previdência e Imposto de Renda, além do custo fixo do plano de saúde.">
+    <answer correct="false">S = 0,72v + 3600</answer>
+    <answer correct="false">S = 0,36v + 4500</answer>
+    <answer correct="false">S = 0,36v + 1600</answer>
+    <answer correct="false">S = 0,036v + 1600</answer>
+    <answer correct="true">S = 0,072v + 3600</answer>
+</question>
+
+<question text="54. O preço unitário p de um determinado equipamento varia segundo a equação de demanda p = sqrt(800 - x), em que x é o número de equipamentos produzidos. O número de equipamentos que devem ser produzidos e vendidos para maximizar a receita R = p.x é de aproximadamente:"
+        explanation=" Para maximizar a receita R=p⋅x derivada da equação de demanda p = sqrt(800 - x) necessário determinar o ponto em que a receita atinge seu máximo, o que acontece quando x= 600. Isso ocorre porque, nesse ponto, a derivada da receita em relação a x é zero, indicando um ponto de máximo. ">
+    <answer correct="false"> 400</answer>
+    <answer correct="false"> 466</answer>
+    <answer correct="false"> 533</answer>
+    <answer correct="false"> 586</answer>
+    <answer correct="true"> 600</answer>
+</question>
+
+<question text="55. A matriz abaixo descreve a interação estratégica de duas pessoas, A e B. As possíveis estratégias de A são A1, A2 e A3; as possíveis estratégias de B são B1 e B2. Em cada célula da matriz, correspondendo a uma combinação de 
+estratégias de A e de B, aparecem dois números: o número à esquerda na célula é o ganho da pessoa A; o número à direita é o ganho da pessoa B. (imagem). Para que B2 seja uma estratégia estritamente dominante 
+do jogador B, é necessário que X seja"
+        explanation="Here is the explanation">
+    <data>
+        <image src="img/image55.jpg" alt="None"/>
+    </data>
+    <answer correct="false"> maior do que 5</answer>
+    <answer correct="true"> menor do que 5</answer>
+    <answer correct="false"> igual a 6</answer>
+    <answer correct="false"> igual a 7</answer>
+    <answer correct="false">maior do que 7</answer>
+</question>
+
+<question text="56. O bem X é negociado em um mercado competitivo, no qual ocorre um aumento da demanda. A quantidade e o 
+preço de equilíbrio no mercado dobram, ambos, em relação ao equilíbrio inicial.Sendo assim, conclui-se que a(o) "
+    explanation="">
+    <answer correct="false"> receita total dos produtores de X duplicou, com o aumento da demanda.</answer>
+    <answer correct="false"> elasticidade renda da demanda por X é unitária.</answer>
+    <answer correct="true"> elasticidade preço da oferta de X é igual a 1.</answer>
+    <answer correct="false"> demanda por X é perfeitamente elástica, em relação a 
+preço.</answer>
+    <answer correct="false">mercado em questão não é de fato competitivo</answer>
+</question>
+
+<question text="57. O Valor em Risco (VAR) de R$ 100.000,00, calculado para certo projeto de investimento, em um horizonte de tempo de 5 anos, com 95% de confiança, significa que"
+    explanation="">
+    <answer correct="true"> é 5% provável que o projeto em questão acarrete uma perda de R$ 100.000,00 ou mais, nos próximos 5 anos.</answer>
+    <answer correct="false"> é 95% provável que o projeto em questão gere um Valor Presente Líquido negativo de R$ 100.000,00, nos próximos 5 anos.</answer>
+    <answer correct="false"> é 95% provável que seja necessário aportar, para o projeto em questão, R$ 100.000,00 de investimento adicional, nos próximos 5 anos.</answer>
+    <answer correct="false"> é 95% provável que o Valor Presente Líquido, do projeto em questão, nos próximos 5 anos, seja 
+R$ 100.000,00 menor do que o Valor Presente Líquido estimado inicialmentes.</answer>
+    <answer correct="false">vale a pena realizar o projeto em questão, se o seu Valor Presente Líquido estimado, nos próximos 5 anos, for maior que R$ 100.000,00, com 5% de probabilidade.</answer>
+</question>
+
+<question text="58. Suponha que uma pessoa está escolhendo entre duas alternativas de investimento: (I) Investir hoje R$ 1.000,00 e receber após 1 ano com absoluta certeza R$ 1.100,00. (II)Investir hoje R$ 1.000,00 e receber após 1 ano R$ 1.050,00 com 50% de probabilidade ou R$ X com 50% de probabilidade. Logo, sempre que a pessoa for"
+        explanation="">"
+    <answer correct="false"> avessa em relação a risco e X = R$ 1.150,00, ela escolhe o investimento (II)</answer>
+    <answer correct="false"> avessa em relação a risco e X = R$ 1.200,00, ela escolhe o investimento (I)</answer>
+    <answer correct="false"> neutra em relação a risco e X = R$ 1.125,00, ela escolhe o investimento (II)</answer>
+    <answer correct="true"> neutra em relação a risco e X = R$ 1.150,00, ela é indiferente entre os investimentos (I) e (II)</answer>
+    <answer correct="false"> neutra em relação a risco e X = R$ 1.400,00, ela escolhe o investimento (I)</answer>
+</question>
+
+<question text="59. Um projeto de investimento apresenta o fluxo financeiro descrito no diagrama abaixo onde as setas apontadas para cima da linha de referência de tempo representam recebimentos e a seta para baixo representa gasto. Esse projeto tem um(a)"
+        explanation="A &quot;duration&quot; de um projeto de investimento representa o tempo médio ponderado até o recebimento dos fluxos de caixa. Neste caso, considerando os fluxos de caixa e o investimento inicial, a duration indica que, em média, o retorno do investimento ocorre em 1 período, sugerindo uma recuperação relativamente rápida do capital investido.">
+    <data>
+        <image src="img/image59.jpg" alt="Diagrama de fluxo financeiro com recebimentos de R$ 60.000 no período 1, R$ 55.000 no período 2, e um gasto de R$ 100.000 no início."/>
+    </data>
+    <answer correct="false">Valor Presente Líquido de R$ 15.000 se a taxa de desconto usada for positiva.</answer>
+    <answer correct="false">Valor Presente Líquido positivo se avaliado usando a Taxa Mínima de Atratividade de 15% por período.</answer>
+    <answer correct="true">Taxa Interna de Retorno de 10% por período.</answer>
+    <answer correct="false">Duration de 2 períodos.</answer>
+    <answer correct="false">Duration de 1 período.</answer>
+</question>
+
+
+
+
+<question text="60. Oito empresas únicas produtoras de um certo bem X se comportam no mercado de X como um oligopólio de Cournot. Todas as oito empresas são iguais, tendo o mesmo Custo Marginal = 30/unidade de X. A demanda total do mercado (Qd) é dada pela seguinte expressão: Qd = 100 – p, sendo p o preço de uma unidade de X. Logo, é possível afirmar que a(o)"
+        explanation="Em um modelo de oligopólio de Cournot, as empresas decidem simultaneamente suas quantidades de produção, considerando as decisões das outras. Dado que o custo marginal é 30 por unidade e a demanda do mercado é Qd=100-p, o preço de mercado será ajustado de forma que seja maior que o custo marginal, garantindo que todas as empresas tenham incentivo para produzir e vender no mercado, resultando em um equilíbrio onde o preço é maior que 30.">
+    <answer correct="false"> quantidade total negociada de X no mercado será maior do que 70.</answer>
+    <answer correct="false"> receita total do conjunto de oligopolistas será a máxima possível.</answer>
+    <answer correct="false"> elasticidade preço da oferta de X é igual a 8.</answer>
+    <answer correct="false"> elasticidade preço da demanda por X é constante.</answer>
+    <answer correct="true"> preço de mercado do bem X será maior do que 30/unidade de X.</answer>
+</question>
+
+
+
+
+
+
+
+
+
+</quiz>

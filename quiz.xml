@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <question text="aAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" 
+        explanation="A transição energética atual busca uma economia de baixo carbono e menor pegada ambiental, priorizando fontes de energia renovável e sustentável.">
+        <answer correct="true"> baaaaaaaaaaaaaaaaaaaaaaaaaaaal</answer>
+        <answer correct="false">baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatal</answer>
+        <answer correct="false">altaaaaaaaaaaaaaaaaaaaaaaaaaienta</answer>
+        <answer correct="false">altoaaaaaaaaaaaaaaaaaaaaaaaaaaarica</answer>
+        <answer correct="false"> altoaaaaaaaaaaaaaaaaaaaaaaaaaaaaídrica</answer>
+    </question>
+
+    
+
+<question text="39. O texto seguinte alude às mudanças ocorridas na economia brasileira, a partir da primeira metade da década de 1930. Os eventos descritos no texto fazem menção à análise de Celso Furtado a respeito das mudanças ocorridas na economia brasileira, após a crise de 1929. A principal mudança a que se refere o texto é o(a)" 
+        explanation="A análise de Celso Furtado enfoca a mudança paradigmática na economia brasileira após a crise de 1929, destacando a transição para um modelo de crescimento impulsionado pelo mercado interno. Este movimento foi crucial na reorientação econômica do Brasil, marcando um afastamento das estratégias de crescimento centradas exclusivamente no setor externo. A queima dos estoques de café e a subsequente política econômica do Governo Provisório, que adotou medidas pré-keynesianas de estímulo fiscal, são vistas como momentos decisivos nessa transição, refletindo um esforço para absorver o choque fiscal e promover o crescimento por meio do estímulo ao mercado interno.">
+    <answer correct="false"> setor externo como motor de crescimento da economia brasileira</answer>
+    <answer correct="false"> ajuste fiscal ocorrido na primeira metade da década de 1930.</answer>
+    <answer correct="true"> mercado interno como fonte dinâmica de crescimento da economia brasileira.</answer>
+    <answer correct="false"> liberalização do comércio exterior ocorrida na primeira metade da década de 1930.</answer>
+    <answer correct="false"> política econômica de cunho liberal que se seguiu à crise de 1929.</answer>
+    <data>
+        <item name="O que parece ter sido decisivo para que Furtado identificasse o pré-keynesianismo em Vargas, e não, por exemplo, em Epitácio Pessoa, é a imagem impressionante da queima dos estoques de café, tão aparentada à construção de pirâmides ou ao cavar buracos mencionados por Keynes. Entretanto, é a disposição de acomodar o choque fiscal, através do aumento do déficit público, o elemento que permite, com adequação, afirmar que a política econômica do Governo Provisório tenha sido pré-keynesiana (ABREU, M. P. Crise, crescimento e modernização autoritária: 1930-1945. In M. P. Abreu (org.). A Ordem do Progresso: Cem Anos de Política Econômica Republicana – 1889-1989. Rio de Janeiro: Editora Campus, p. 81. Adaptado.)" value=""/>
+    </data>
+</question>
+
+
+      <question text="40. O trecho seguinte alude aos limites de uma estratégia de crescimento financiada por poupança externa. De acordo com o autor, um país que se guia por uma estratégia de &quot;crescimento com poupança externa&quot; " 
+        explanation="A estratégia de &quot;crescimento com poupança externa&quot; implica na utilização de recursos financeiros externos para alavancar o desenvolvimento econômico. Embora possa inicialmente estimular a atividade econômica, essa abordagem carrega limitações significativas, como a susceptibilidade a crises de balanço de pagamentos, o aumento da dívida externa e a dependência de condições econômicas externas. O trecho destaca as consequências de tal estratégia, incluindo a apreciação da taxa de câmbio e seus impactos sobre a poupança interna e a competitividade das exportações.">
+        <answer correct="false">provoca a apreciação da taxa de câmbio e, consequentemente, a redução do consumo das famílias</answer>
+        <answer correct="false">acelera sua taxa de investimento, como proporção no PIB.</answer>
+        <answer correct="false">aumenta sua taxa de poupança interna, como proporção do PIB</answer>
+        <answer correct="true">aumenta sua dependência de capitais estrangeiros.</answer>
+        <answer correct="false">aumenta a competitividade de suas exportações.</answer>
+        <data>
+            <item name="Quando um país decide aceitar essa proposta de &quot;crescimento com poupança externa&quot;, a primeira consequência é a apreciação da taxa de câmbio. Em seguida, do lado da oferta, ocorre o aumento artificial dos salários, e, em consequência, o aumento do consumo interno [...]. Do lado da demanda, o resultado é o mesmo: a apreciação da moeda provoca a diminuição das oportunidades de investimento lucrativo voltadas para a exportação; caem os investimentos e, em termos keynesianos, cai a poupança interna. Mais amplamente, o endividamento externo provoca uma sucessão de três males: primeiro, temos uma elevada taxa de substituição da poupança interna pela externa, grande parte das entradas de capitais financiando o consumo ao invés do investimento; segundo, temos o aumento do endividamento externo que leva o país a uma condição de fragilidade externa e à política desastrosa do confidence building, a aceitar sem crítica as recomendações de nossos credores e concorrentes; e, terceiro, temos a crise de balanço de pagamentos.(BRESSER-PEREIRA, L.C. Déficits, câmbio e crescimento. O Estado de São Paulo, São Paulo, mar.2010. Adaptado.)" value=""/>
+        </data>
+    </question>
+
+
+
+
+
+
+</quiz>
